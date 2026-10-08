@@ -18,7 +18,8 @@
 /*.Rcheck/
 
 # RStudio files
-
+.Rproj.user/
+*.Rproj
 
 # produced vignettes
 vignettes/*.html
@@ -37,4 +38,3 @@ vignettes/*.pdf
 
 # R Environment Variables
 .Renviron
-.Rproj.user
