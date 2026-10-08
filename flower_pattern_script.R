@@ -1,4 +1,5 @@
 # Makes a flower pattern
+# Name: Vivian Morales
 
 t  <- 1:500
 p <- (1 + sqrt(5))*pi
